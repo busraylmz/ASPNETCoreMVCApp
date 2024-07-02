@@ -10,7 +10,7 @@ namespace ASPNETCoreMVCApp.Controllers
     public class ProductController : Controller
     {
 
-
+       
         #region ViewResult
 
         //public ViewResult GetProducts()
@@ -75,5 +75,5 @@ namespace ASPNETCoreMVCApp.Controllers
     }
 
 
-
+    
 }
